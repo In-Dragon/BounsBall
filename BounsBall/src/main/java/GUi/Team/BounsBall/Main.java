@@ -9,9 +9,7 @@ public class Main {
 	public static final int SLEEP_TIME = 15;
 
 	public static void main(String[] args) {
-
 		
 		new MainFrame();
 	}
-
 }
